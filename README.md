@@ -1,3 +1,6 @@
+
+Building AI course project
+
 # Blind-Learning-AI-Inklusive-Onlinekurse-intelligent-anpassenProjektname
 Blind Learning AI – Inklusive Onlinekurse intelligent anpassen
 
